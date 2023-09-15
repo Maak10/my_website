@@ -2474,3 +2474,14 @@ select.mobile-device {
 .pull-right{
     color: green;
 }
+
+
+
+@media (max-width:500px) {
+    
+
+.button-group{
+   border: none;
+
+}
+}
